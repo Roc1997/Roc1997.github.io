@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "谢鹏程"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "一个简单的文字爱好者."
   location         : "中国 浙江"
   email            :
